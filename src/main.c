@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
+    printf("Pro Git book examples will be tested here.\n");
     return 0;
 }
