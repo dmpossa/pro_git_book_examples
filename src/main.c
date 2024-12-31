@@ -2,6 +2,6 @@
 
 int main() {
     printf("Pro Git book examples will be tested here.\n");
-    //branch with wrong name
+    //now is OK!
     return 0;
 }
