@@ -2,6 +2,6 @@
 
 int main() {
     printf("Pro Git book examples will be tested here.\n");
-    //make a change
+    //change in testing
     return 0;
 }
