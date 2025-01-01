@@ -5,5 +5,6 @@ int main() {
         //new work in main, ahad of testing branch
         //sem conflito
         printf("C5\n");
+        printf("C6\n");
     return 0;
 }
