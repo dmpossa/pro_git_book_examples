@@ -1,2 +1,2 @@
-log(i am john hahaha);
-//nice work clap clap clap!
+nice work clap clap clap!
+
