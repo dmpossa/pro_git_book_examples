@@ -1,10 +1,2 @@
-ls-tree
-add
-C1
-C2
-C3
+nice work clap clap clap!
 
-
-
-ta bem longe, não deveria dar conflito :)
-//mesmo longe, deu confito :O
